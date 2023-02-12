@@ -16,7 +16,7 @@ let paragraphs = [
   "In three words I can sum up everything I've learned about life: it goes on.",
   "Success is not final; failure is not fatal: It is the courage to continue that counts.",
   "The secret of success is to do the common thing uncommonly well.",
-  "Don't be distracted by criticism. Remember — the only taste of success some people get is to take a bite out of you.",
+  "Don't be distracted by criticism. Remember : the only taste of success some people get is to take a bite out of you.",
   "There are no secrets to success. It is the result of preparation, hard work, and learning from failure.",
   "The real test is not whether you avoid this failure, because you won't. It's whether you let it harden or shame you into inaction, or whether you learn from it; whether you choose to persevere.",
   "The road to success and the road to failure are almost exactly the same.",
