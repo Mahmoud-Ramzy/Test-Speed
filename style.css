@@ -174,3 +174,25 @@
       transform: translateY(-7px);
       box-shadow: 0 3px 15px -1px rgba(25, 24, 24, 0.384);
   }
+
+  @media (max-width:600px) {
+
+      .Score,
+      .state {
+          flex-direction: column;
+      }
+
+      .Display p {
+          font-size: 20px;
+      }
+
+      button {
+          width: 100px;
+          height: 40px;
+          font-size: 12px;
+      }
+
+      h1 {
+          font-size: 18px;
+      }
+  }
