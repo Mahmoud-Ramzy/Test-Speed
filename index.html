@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="shortcut icon" href="images/icon.png" type="image/x-icon" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Speed Test</title>
+  </head>
+  <body>
+    <section class="wrapper">
+      <div id="app" class="bkGround">
+        <input type="text" class="inp" />
+        <div class="Display"><p></p></div>
+        <button onclick="window.location.reload();">Try Again</button>
+        <small>Typing Speed Test</small>
+        <h1>Test Your Typing skills</h1>
+        <div class="Score">
+          <div class="time">
+            <p>60</p>
+            <small>seconds</small>
+          </div>
+          <div class="state2">
+            <div class="state">
+              <div class="WPM">
+                <p>0</p>
+                <small>words/min</small>
+              </div>
+              <div class="CPM">
+                <p>0</p>
+                <small>char/min</small>
+              </div>
+              <div class="acc">
+                <p>0</p>
+                <small>% accuracy</small>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <script src="app.js"></script>
+  </body>
+</html>
